@@ -1,5 +1,17 @@
-header{
+.header1{
     background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100% );
+    color: rgb(43, 40, 40);
+    padding: 2vw;
+    border: 5px solid white;
+    border-radius: 5%;
+    font-family: 'Open Sans', sans-serif;
+    
+
+}
+
+.header2{
+    background-color: #e2756d !important;
+    /*background-color: #e2756d !important; */
     color: rgb(43, 40, 40);
     padding: 2vw;
     border: 5px solid white;
@@ -24,6 +36,17 @@ body{
     background-position: center;
 
     background-image: linear-gradient(to top, rgb(161, 140, 209, 0.5) 0%, rgba(251, 193, 234, 0.5) 100%), url(../img/cosmo.jpg);
+}
+
+.inicio2{
+
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+
+    background-image: linear-gradient(to top, rgb(161, 140, 209, 0.5) 0%, rgba(251, 193, 234, 0.5) 100%), url(../img/uno.jpg);
+
 }
 
 .caja1{
@@ -114,3 +137,4 @@ body{
         padding: 20px;
 
 }
+
