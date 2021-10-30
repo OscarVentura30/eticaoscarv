@@ -1,3 +1,101 @@
-body{
-    border: 3px solid black;
+header{
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+    color: rgb(43, 40, 40);
+    padding: 2vw;
+    border: 5px solid white;
+    border-radius: 5%;
+}
+
+
+.inicio{
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+}
+
+.caja1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.box{
+    
+        font-family: sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+        color: #ffffff;
+        background: #889ccf;
+        margin: 0 0 25px;
+        overflow: hidden;
+        padding: 20px;
+        border: 5px solid wheat;
+        border-radius: 5%;
+
+}
+
+.box1{
+
+    background-color: #e2756d;
+
+}
+
+box2{
+
+    background-color: #008CBA;
+}
+
+.box3{
+
+    background-color: #4CAF50;
+}
+
+.box4{
+    background-color: #e7e7e7; color: black;
+}
+
+.box5{
+
+    background-color: #555555;
+
+}
+
+.box6{
+    background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
+}
+
+.box7{
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);    
+}
+
+.box8{
+    background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);    
+}
+
+.box9{
+    background-image: linear-gradient(to top, #0fd850 0%, #f9f047 100%);
+}
+
+.error{
+
+        font-family: sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+        color: #ffffff;
+        background-color: #f44336 !important;
+        margin: 0 0 25px;
+        overflow: hidden;
+        padding: 20px;
+}
+
+.fuera{
+
+    font-family: sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+        color: black;
+        background-color: #e7e7e7 !important;
+        margin: 0 0 25px;
+        overflow: hidden;
+        padding: 20px;
+
 }
