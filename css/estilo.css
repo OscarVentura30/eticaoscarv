@@ -16,6 +16,15 @@
     border: 5px solid white;
     border-radius: 5%;
     font-family: 'Open Sans', sans-serif;
+}
+
+.header3{
+    background-color: #008CBA;
+    color: rgb(43, 40, 40);
+    padding: 2vw;
+    border: 5px solid white;
+    border-radius: 5%;
+    font-family: 'Open Sans', sans-serif;
     
 
 }
@@ -44,7 +53,18 @@ body{
     background-attachment: fixed;
     background-position: center;
 
-    background-image: linear-gradient(to top, rgb(161, 140, 209, 0.5) 0%, rgba(251, 193, 234, 0.5) 100%), url(../img/uno.jpg);
+    background-image: linear-gradient(to top, rgba(103, 170, 233, 0.5) 0%, rgba(251, 193, 234, 0.5) 100%), url(../img/uno.jpg);
+
+}
+
+.inicio3{
+
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+
+    background-image: linear-gradient(to top, rgba(103, 170, 233, 0.5) 0%, rgba(251, 193, 234, 0.5) 100%), url(../img/dos.jpg);
 
 }
 
@@ -135,5 +155,22 @@ body{
         overflow: hidden;
         padding: 20px;
 
+}
+
+p{
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2vw;
+    text-shadow: 2px 2px 2px black;
+}
+
+.titulo1{
+    text-decoration: dashed;
+    text-shadow: 2px 0px 2px darkorange;
+    color: orange;
+}
+
+.imageni{
+    text-align: center;
 }
 
