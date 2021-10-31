@@ -235,3 +235,8 @@ p{
 b{
     color: orangered;
 }
+
+button{
+    
+    cursor: pointer;
+}
