@@ -53,6 +53,12 @@
     background-color: #e7e7e7;
 }
 
+.header6{
+    background-color: #555555;
+    color: white !important;
+    
+}
+
 
 body{
     margin: 2vw;
@@ -109,6 +115,11 @@ body{
 
 .inicio5{
     background-image: linear-gradient(to top, rgb(161, 140, 209, 0.5) 0%, rgba(251, 193, 234, 0.5) 100%), url(../img/cuatro.jpg);
+
+}
+
+.inicio6{
+    background-image: linear-gradient(to top, rgb(161, 140, 209, 0.5) 0%, rgba(251, 193, 234, 0.5) 100%), url(../img/cinco.jpg);
 
 }
 
