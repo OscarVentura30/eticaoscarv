@@ -59,6 +59,10 @@
     
 }
 
+.header7{
+    background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
+}
+
 
 body{
     margin: 2vw;
@@ -120,6 +124,11 @@ body{
 
 .inicio6{
     background-image: linear-gradient(to top, rgb(161, 140, 209, 0.5) 0%, rgba(251, 193, 234, 0.5) 100%), url(../img/cinco.jpg);
+
+}
+
+.inicio7{
+    background-image: linear-gradient(to top, rgb(161, 140, 209, 0.5) 0%, rgba(251, 193, 234, 0.5) 100%), url(../img/seis.jpg);
 
 }
 
